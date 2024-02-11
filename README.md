@@ -1,16 +1,21 @@
 <h1 align="center">Hi 👋 I'm Anshul Shrivastava</h1>
-<h3 align="center">A Software developer at "Etelligens Technologies"</h3>
+<h3 align="center">"I'm a Software Developer at Etelligens Technologies"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul16729&label=Profile%20views&color=0e75b6&style=flat" alt="anshul16729" /> </p>
 
-- 💬 Ask me about **MERN**
+- 👨‍💻 All about me is at [My Website](https://github.com/Anshul16729/portfolio_anshul)
+
+- 💬 Ask me about ``` const topics = [ "JavaScript", "ReactJS", "NodeJS"] ```
 
 - 📫 How to reach me **anshul.programmingjobs@gmail.com**
 
+- 📄 Know about my work & experiences [My Resume]()
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/miss_callback_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_callback_" height="30" width="40" /></a>
-<a href="https://instagram.com/_talkative_annabelle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_talkative_annabelle" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-anshul-shrivastava-6b1483152/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anshul-shrivastava" height="30" width="40" /></a>
+<a href="https://instagram.com/_talkative_annabelle_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anshul-shrivastava" height="30" width="40" /></a>
+<a href="https://medium.com/@chandrikadeb7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anshul-shrivastava" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

@@ -13,10 +13,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/https://codepen.io/anshul16729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/anshul16729" height="30" width="40" /></a>
+<a href="https://dev.to/https://dev.to/anshul16729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://dev.to/anshul16729" height="30" width="40" /></a>
 <a href="https://twitter.com/miss_callback_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miss_callback_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/%f0%9f%91%a9%e2%80%8d%f0%9f%92%bb-anshul-shrivastava-6b1483152" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/%f0%9f%91%a9%e2%80%8d%f0%9f%92%bb-anshul-shrivastava-6b1483152" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/14362909/anshul-shrivastav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/14362909/anshul-shrivastav" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/anshul.shrivastava.9216778?mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/anshul.shrivastava.9216778?mibextid=zbwkwl" height="30" width="40" /></a>
 <a href="https://instagram.com/_talkative_annabelle_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_talkative_annabelle_" height="30" width="40" /></a>
+<a href="https://medium.com/@anshul.programmingjobs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anshul.programmingjobs" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/anshulsh16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/anshulsh16" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

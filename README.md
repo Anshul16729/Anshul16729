@@ -8,7 +8,7 @@
 
 - 💬 Ask me about ``` const topics = [ "JavaScript", "ReactJS", "NodeJS"] ```
 
-- 📝 I’m currently learning **DSA**
+- 📝 I’m currently focussing **DSA**
 
 - 📫 How to reach me **anshul.programmingjobs@gmail.com**
 

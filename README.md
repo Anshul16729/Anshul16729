@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshul16729&label=Profile%20views&color=0e75b6&style=flat" alt="anshul16729" /> </p>
 
-- 👨‍💻 All about me is at [My Website](https://anshulshri.netlifyu.app/)
+- 👨‍💻 All about me is at [My Website](https://anshulshriv.netlify.app/)
 
 - 💬 Ask me about ``` const topics = [ "JavaScript", "ReactJS", "NodeJS"] ```
 

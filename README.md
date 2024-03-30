@@ -6,7 +6,7 @@
 
 - I don't want peace, I want problem "always".
 
-- 👨‍💻 All about me is at [My Website](https://anshulshriv.netlify.app/)
+- 👨‍💻 All about me is at [My Website](https://anshulshri.netlify.app/)
 
 - 💬 Ask me about ``` const topics = [ "JavaScript", "ReactJS", "NodeJS"] ```
 
@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anshul.programmingjobs@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume]()
+- 📄 Know about my work & experiences [My Resume](https://docs.google.com/document/d/1uyYjcQ2HBl-jDpghMEpOGhUc6pt-QGAt/edit?usp=drive_link&ouid=115110223783799042683&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

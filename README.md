@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **anshul.programmingjobs@gmail.com**
 
-- 📄 Know about my work & experiences [My Resume](https://docs.google.com/document/d/1uyYjcQ2HBl-jDpghMEpOGhUc6pt-QGAt/edit?usp=drive_link&ouid=115110223783799042683&rtpof=true&sd=true)
+- 📄 Know about my work & experiences [My Resume](https://docs.google.com/document/d/1RLAG76p80WrotI-vNlrIFWL4eXWRXCqG/edit?usp=sharing&ouid=118183955961072392290&rtpof=true&sd=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

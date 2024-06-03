@@ -16,6 +16,47 @@
 
 - 📄 Know about my work & experiences [My Resume](https://docs.google.com/document/d/1RLAG76p80WrotI-vNlrIFWL4eXWRXCqG/edit?usp=sharing&ouid=118183955961072392290&rtpof=true&sd=true)
 
+### Skills
+
+<div style="display:flex;flex-direction:row">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/node-1572B6?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/mongodb-1572B6?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/express-1572B6?style=for-the-badge&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+</div>
+
+### Languages
+
+<div style="display:flex;flex-direction:row">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+
+### Tools
+
+<div style="display:flex;flex-direction:row">
+   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
+   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+   <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
+   <img src="https://img.shields.io/badge/azure-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white%22" />
+</div>
+
+### Styling
+
+<div style="display:flex;flex-direction:row">
+    <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
+    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+   <img src="https://img.shields.io/badge/mui-%238511FA.svg?style=for-the-badge&logo=mui&logoColor=white" />
+   <img src="https://img.shields.io/badge/tailwind-%238511FA.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+   <img src="https://img.shields.io/badge/sass-%238511FA.svg?style=for-the-badge&logo=sass&logoColor=white" />
+</div>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/https://codepen.io/anshul16729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/anshul16729" height="30" width="40" /></a>
